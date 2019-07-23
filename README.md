@@ -1,4 +1,19 @@
-# electron-quick-start
+# SmoothGif
+## Developers
+##### [Justin Blankenship](https://github.com/justin-blankenship)
+##### [Kaleb Owens](https://github.com/kalebso)
+##### [Rex Douglas](https://github.com/RexDouglas)
+## Desktop GIF creation Tool
+###### A desktop application that allows the creation of GIFs from videos or static image collections.
+## Platform
+##### This is a JavaScript desktop application built using:
+- [Electron.js](https://electronjs.org/)
+- [Node.js](https://nodejs.org/)
+## Screenshots
+##### Initial Window
+![screenshot](https://user-images.githubusercontent.com/18442314/61737164-ad21a700-ad55-11e9-8931-845383f8c9d4.PNG)
+
+# Getting Started With Electron
 
 **Clone and run for a quick way to see Electron in action.**
 
@@ -29,7 +44,10 @@ npm install
 npm start
 ```
 
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+Notes:
+- If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+- To run this app, you'll need to navigate to the `src` folder and run the command `npm start`
 
 ## Resources for Learning Electron
 

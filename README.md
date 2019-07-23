@@ -47,7 +47,7 @@ npm start
 Notes:
 - If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
-- To run this app, you'll need to navigate to the `src` folder and run the command `npm start`
+- To run this app, you'll need to navigate to the `src` folder and run the command <b>npm start</b>.
 
 ## Resources for Learning Electron
 
